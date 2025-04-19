@@ -1,7 +1,7 @@
 
-# Installing Linux without USB Drive
+# Installing Linux without USB Drive on Windows
 
-Install Ubuntu without a USB drive.
+Install Ubuntu without a USB drive on Windows.
 
 ### 1. Create Partition
 - Create an 8GB partition
